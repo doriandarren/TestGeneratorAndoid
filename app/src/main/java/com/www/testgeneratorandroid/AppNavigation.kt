@@ -21,6 +21,8 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.www.testgeneratorandroid.modules.auth.screens.HomeScreen
+import com.www.testgeneratorandroid.modules.auth.screens.LoginScreen
 import kotlinx.coroutines.launch
 
 const val ROUTE_HOME = "home"
