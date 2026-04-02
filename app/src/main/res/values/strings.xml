@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TruckWash</string>
+    <string name="welcome_title">Bienvenido a TruckWash</string>
+    <string name="welcome_subtitle">Limpieza profesional para tu flota, rápida, eficiente y siempre impecable</string>
+    <string name="login">Login</string>
+    <string name="home_background_description">Fondo de lavado de camiones</string>
+</resources>
